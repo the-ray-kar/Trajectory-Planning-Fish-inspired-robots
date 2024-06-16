@@ -10,4 +10,4 @@ free and optimal given every obstacle motion remains constant.
   </tr>
 </table>
 
-***Thesis** [Trajectory planning Fish inspired roboots](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/master/thesis_trajectoryplanning_akshay.pdf)
+***Thesis** [Trajectory planning Fish inspired robots](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/master/thesis_trajectoryplanning_akshay.pdf)

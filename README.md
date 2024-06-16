@@ -9,3 +9,5 @@ free and optimal given every obstacle motion remains constant.
     <td><img src="https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/4e8dc5cc4025da5cbf01da679ca6ac9178434587/Simulation_raw_results/20ms/eelplan.gif" alt="GIF 2" width="400"/></td>
   </tr>
 </table>
+
+***Thesis** [Trajectory planning Fish inspired roboots](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/master/thesis_trajectoryplanning_akshay.pdf)
